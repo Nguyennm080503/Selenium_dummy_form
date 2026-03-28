@@ -1,7 +1,3 @@
-Dưới đây là phiên bản **README được thiết kế lại (chuẩn GitHub, đẹp + chuyên nghiệp + dễ đọc)**:
-
----
-
 # 📌 Alcohol Form Automation (Data-Driven Testing)
 
 ## 📖 Overview
